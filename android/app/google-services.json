@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "894143006298",
+    "project_id": "exaiimct",
+    "storage_bucket": "exaiimct.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:894143006298:android:a83cc28ad36c19a6af3a63",
+        "android_client_info": {
+          "package_name": "com.example.exaiimct"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR8tgshmVHBqvM0VzHkAbdcJJLR-r-39k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
